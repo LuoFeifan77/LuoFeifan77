@@ -1,4 +1,4 @@
-## Hi there, this is Feifan Luo Park 👋
+## Hi there, this is Feifan Luo Park (罗菲繁) 👋
 
 I am a third-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes.
 
