@@ -1,8 +1,19 @@
 ## Hi there, this is Feifan Luo park 👋
 
-I am a third-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), privileged to be supervised by Dr.[Hongyang Chen](https://scholar.google.com/citations?user=s-HDT8UAAAAJ&hl=en) and Prof.[Gang Chen](https://person.zju.edu.cn/en/0098112). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes.
+I am a third-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes.
 
 Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, World Models, and Vision-Language Models (VLMs). I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and VLMs that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
+
+
+💬 How to reach me: luoff@zju.edu.cn
+
+😄 Welcome to visit https://luofeifan77.github.io/
+
+<a href='https://luofeifan77.github.io'><img src='https://img.shields.io/badge/Home-Page-orange' /></a>&nbsp;
+<a href='https://scholar.google.com/citations?user=s-HDT8UAAAAJ&hl=en'><img src='https://img.shields.io/badge/Google-Scholar-green' /></a>&nbsp;
+<a href='https://www.linkedin.com/in/hongyangchen/'><img src='https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white' /></a>&nbsp;
+<img src='https://img.shields.io/github/stars/zhejiangzhuque?color=green&style=social' />&nbsp;
+<img src='https://img.shields.io/github/followers/zhejiangzhuque?color=green&style=social' />
 
 
 <!--
