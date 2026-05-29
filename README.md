@@ -5,7 +5,7 @@ I am a third-year PhD student at School of Computer Science, [Zhejiang Universit
 Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, World Models, and Vision-Language Models (VLMs). I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and VLMs that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
 
 
-💬 How to reach me: luoff@zju.edu.cn
+📫 How to reach me: luoff@zju.edu.cn
 
 😄 Welcome to visit https://luofeifan77.github.io/
 
@@ -13,7 +13,7 @@ Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, W
 <a href='https://scholar.google.com/citations?user=iCOpMr0AAAAJ&hl=zh-CN&oi=ao'><img src='https://img.shields.io/badge/Google-Scholar-green' /></a>&nbsp;
 <a href='https://www.linkedin.com/in/feifan-luo-271440366/'><img src='https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white' /></a>&nbsp;
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=LuoFeifan77&show_icons=true" />  --> -->
-<img src='https://img.shields.io/github/stars/LuoFeifan77/LuoFeifan77)?color=green&style=social' />&nbsp;
+<img src='https://img.shields.io/github/stars/LuoFeifan77/LuoFeifan77?color=green&style=social' />&nbsp;
 <img src='https://img.shields.io/github/followers/LuoFeifan77?color=green&style=social' />
 
 <!--
