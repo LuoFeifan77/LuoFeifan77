@@ -12,8 +12,8 @@ Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, W
 <a href='https://luofeifan77.github.io'><img src='https://img.shields.io/badge/Home-Page-orange' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?user=iCOpMr0AAAAJ&hl=zh-CN&oi=ao'><img src='https://img.shields.io/badge/Google-Scholar-green' /></a>&nbsp;
 <a href='https://www.linkedin.com/in/feifan-luo-271440366/'><img src='https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white' /></a>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=LuoFeifan77&show_icons=true" />
-<!-- <img src='https://img.shields.io/github/stars/LuoFeifan77?color=green&style=social' />&nbsp; -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=LuoFeifan77&show_icons=true" />  --> -->
+<img src='https://img.shields.io/github/stars/LuoFeifan77/LuoFeifan77)?color=green&style=social' />&nbsp;
 <img src='https://img.shields.io/github/followers/LuoFeifan77?color=green&style=social' />
 
 <!--
