@@ -1,13 +1,5 @@
 ## Hi there, this is Feifan Luo Park (罗菲繁) 👋
 
-profile:
-  align: right
-  image: feifanluo.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Zhejiang University</p>
-    <p>Hangzhou, China</p>
-
 I am a third-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes.
 
 Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, World Models, and Vision-Language Models (VLMs). I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and VLMs that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
