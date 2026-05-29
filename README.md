@@ -14,6 +14,8 @@ Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, W
 <a href='https://www.linkedin.com/in/feifan-luo-271440366/'><img src='https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white' /></a>&nbsp;
 <img src='https://img.shields.io/github/stars/LuoFeifan77/LuoFeifan77?color=green&style=social' />&nbsp;
 <img src='https://img.shields.io/github/followers/LuoFeifan77?color=green&style=social' />
+![LuoFeifan77's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuoFeifan77&show_icons=true&hide=issues,contribs,commits,prs)
+
 
 <!--
 **LuoFeifan77/LuoFeifan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
